@@ -12,7 +12,7 @@ I'm just a guy who loves beign an Engineer.
 ![Profile views in 2024](https://komarev.com/ghpvc/?username=Mazen20021&style=for-the-badge&color=ff0000)
 ## Programming Skills
 
-[<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/60e22730-0b14-4ccf-9764-f99a6aab5d44" width="80"  height="70" >
+[<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/60e22730-0b14-4ccf-9764-f99a6aab5d44" width="186"  height="114" >
 ](https://www.mysql.com/)
 [<img src="https://user-images.githubusercontent.com/55330747/206610072-19b7d699-e019-4d69-87ac-f86ed49100b1.png" width="70" height="70" >
 ](https://dotnet.microsoft.com/en-us/apps/maui)
