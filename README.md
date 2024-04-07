@@ -2,11 +2,6 @@
 My name is Mazen Ahmed.
 I'm just a guy who loves beign an Engineer.
 
-[![Top Langs](https://github-readme-stats-Mazen20021.vercel.app/api/top-langs/?username=Mazen20021&&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mazen20021)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mazen20021r&theme=dark)](https://github.com/Mazen20021)
-
-[![Mazen's github stats](https://github-readme-stats-Mazen20021.vercel.app/api?username=Mazen20021&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&)](https://github.com/Mazen20021)
 
  [//]: # (https://gpvc.arturio.dev/Mazen20021) 
 ![Profile views in 2024](https://komarev.com/ghpvc/?username=Mazen20021&style=for-the-badge&color=ff0000)
