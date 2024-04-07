@@ -2,17 +2,17 @@
 My name is Mazen Ahmed.
 I'm just a guy who loves beign an Engineer.
 
-[![Top Langs](https://github-readme-stats-sharaf-mansour.vercel.app/api/top-langs/?username=Mazen20021&&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mazen20021)
+[![Top Langs](https://github-readme-stats-Mazen20021.vercel.app/api/top-langs/?username=Mazen20021&&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mazen20021)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mazen20021r&theme=dark)](https://github.com/Mazen20021)
 
-[![Mazen's github stats](https://github-readme-stats-Mazen20021.vercel.app/api?username=sharaf-mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&)](https://github.com/Mazen20021)
+[![Mazen's github stats](https://github-readme-stats-Mazen20021.vercel.app/api?username=Mazen20021&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&)](https://github.com/Mazen20021)
 
  [//]: # (https://gpvc.arturio.dev/Mazen20021) 
 ![Profile views in 2024](https://komarev.com/ghpvc/?username=Mazen20021&style=for-the-badge&color=ff0000)
 ## Programming Skills
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55330747/268431629-cc1d22c9-a085-45e8-a348-eae8b1338d33.png" width="80"  height="70" >
+[<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/60e22730-0b14-4ccf-9764-f99a6aab5d44" width="80"  height="70" >
 ](https://www.mysql.com/)
 [<img src="https://user-images.githubusercontent.com/55330747/206610072-19b7d699-e019-4d69-87ac-f86ed49100b1.png" width="70" height="70" >
 ](https://dotnet.microsoft.com/en-us/apps/maui)
