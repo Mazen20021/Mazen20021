@@ -13,8 +13,3 @@ I'm just a guy who loves beign an Engineer.
 [<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/04218c09-6deb-4e0a-8f44-826e2ba50034" width="80"  height="80" >](https://www.java.com/en//#gh-light-mode-only)
 [<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/1b9b897e-693e-44ab-9713-124ad2cb6f48" width="80"  height="80" >](https://www.python.org//#gh-light-mode-only)
 
-## 🏆GitHub Trophies
-<p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mazen20021&theme=dracula&no-frame=true&no-bg=false&margin-w=5&row=1" />
-</p>
- 
