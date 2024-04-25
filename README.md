@@ -1,6 +1,6 @@
 ### Welcome ALL 👋.
 My name is Mazen Ahmed.
-I'm just a guy who loves beign an Engineer.
+I am deeply passionate about engineering and driven to continually enhance my programming expertise. My aspiration is to collaborate with a supportive team, working synergistically towards the pinnacle of excellence, where together we can scale new heights and achieve unparalleled success..
 
 
  [//]: # (https://gpvc.arturio.dev/Mazen20021) 
