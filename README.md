@@ -2,7 +2,7 @@
 Welcome ALL 👋
 Please Pray For Palastaniane People To Be Free And Live a Normal Life Like Us Again May Allah Be With Them 
 <div align="center">
-  <img alt="Free Palastine" width="50px" style="padding-right:20px;" src="https://images.jacobinmag.com/wp-content/uploads/2023/05/18160711/GettyImages-1247405869.jpg"/>
+  <img alt="Free Palastine" width="350px" style="padding-right:20px;" src="https://images.jacobinmag.com/wp-content/uploads/2023/05/18160711/GettyImages-1247405869.jpg"/>
   <
 </div>
 
