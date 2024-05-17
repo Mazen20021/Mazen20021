@@ -29,3 +29,6 @@ I am deeply passionate about engineering and driven to continually enhance my pr
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mazen20021&hide=Makefile,javascript,typescript&theme=algolia&show_icons=true" alt="Mazen20021's GitHub stats">
   </a>
 </div>
+
+## Social Communtications
+[<img alt="LinkedIn" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/mazen-mansour-b4726123a/)
