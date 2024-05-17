@@ -1,4 +1,4 @@
-# [🌩️Code Thunder](https://drive.google.com/file/d/1Rn_GuxqdBnIU3WYwfAS9DgsseVKGq4Dv/view?usp=sharing)
+# [Code Thunder 🌩️](https://drive.google.com/file/d/1Rn_GuxqdBnIU3WYwfAS9DgsseVKGq4Dv/view?usp=sharing)
 Welcome ALL 👋
 
 I am deeply passionate about engineering and driven to continually enhance my programming expertise. My aspiration is to collaborate with a supportive team, working synergistically towards the pinnacle of excellence, where together we can scale new heights and achieve unparalleled success.
