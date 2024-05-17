@@ -1,4 +1,4 @@
-# ⚡Code Thunder
+# [⚡Code Thunder](https://drive.google.com/file/d/1Rn_GuxqdBnIU3WYwfAS9DgsseVKGq4Dv/view?usp=sharing)
 Welcome ALL 👋
 
 I am deeply passionate about engineering and driven to continually enhance my programming expertise. My aspiration is to collaborate with a supportive team, working synergistically towards the pinnacle of excellence, where together we can scale new heights and achieve unparalleled success.
@@ -30,5 +30,6 @@ I am deeply passionate about engineering and driven to continually enhance my pr
   </a>
 </div>
 
-## Social Communtications
+## Other Profiles
 [<img alt="LinkedIn" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/mazen-mansour-b4726123a/)
+[<img alt="LeetCode" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>](https://leetcode.com/u/CodeThunder/)
