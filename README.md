@@ -4,7 +4,7 @@ Welcome ALL 👋
 
 Please join me in praying for the Palestinian people, that they may achieve freedom and live normal, peaceful lives once again. May Allah be with them and guide them through these difficult times.
 <div align="center">
-  <img alt="Free Palastine" width="1100px" style="padding-right:20px;" src="https://images.jacobinmag.com/wp-content/uploads/2023/05/18160711/GettyImages-1247405869.jpg"/>
+  <img alt="Free Palastine" width="1100px" style="padding-right:20px;" src="https://img.freepik.com/premium-photo/sad-little-palestinian-child-palestinian-flag-background-stop-war-concept-help-palestine_948175-1947.jpg"/>
 </div>
 <br />
 
