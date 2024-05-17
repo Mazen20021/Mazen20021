@@ -14,7 +14,7 @@ I am deeply passionate about engineering and driven to continually enhance my pr
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://dotnet.microsoft.com/en-us/apps/maui" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://flutter.dev" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.mysql.com" />
 <br />
