@@ -5,11 +5,18 @@ I am deeply passionate about engineering and driven to continually enhance my pr
 
  [//]: # (https://gpvc.arturio.dev/Mazen20021) 
 ![Profile views in 2024](https://komarev.com/ghpvc/?username=Mazen20021&style=for-the-badge&color=ff0000)
-## Programming Skills
 
-[<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/60e22730-0b14-4ccf-9764-f99a6aab5d44" width="80"  height="80" >](https://www.mysql.com/)
-[<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/a0fe2a5f-1d3a-4c7c-8066-eec926df3867" width="80" height="80" >](https://dotnet.microsoft.com/en-us/apps/maui)
-[<img src="https://user-images.githubusercontent.com/55330747/206610521-8590e45c-f137-4d95-9c4b-165b7af793d3.png" width="80" height="80" >](https://flutter.dev/)
-[<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/04218c09-6deb-4e0a-8f44-826e2ba50034" width="80"  height="80" >](https://www.java.com/en//#gh-light-mode-only)
-[<img src="https://github.com/Mazen20021/Mazen20021/assets/131156076/1b9b897e-693e-44ab-9713-124ad2cb6f48" width="80"  height="80" >](https://www.python.org//#gh-light-mode-only)
+### 🧰 Programming Skills
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://dotnet.microsoft.com/en-us/apps/maui" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://flutter.dev" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.mysql.com" />
+<br />
+
 
