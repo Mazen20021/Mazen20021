@@ -32,4 +32,6 @@ I am deeply passionate about engineering and driven to continually enhance my pr
 
 ## Other Profiles
 [<img alt="LinkedIn" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/mazen-mansour-b4726123a/)
-[<img alt="LeetCode" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>](https://leetcode.com/u/CodeThunder/)
+[<img alt="Gmail" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg"/>](mazen20190441@gmail.com)
+[<img alt="LeetCode" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/LeetCode/LeetCode-original.svg"/>](https://leetcode.com/u/CodeThunder/)
+
