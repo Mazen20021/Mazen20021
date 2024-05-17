@@ -1,5 +1,14 @@
 # [Code Thunder 🌩️](https://drive.google.com/file/d/1Rn_GuxqdBnIU3WYwfAS9DgsseVKGq4Dv/view?usp=sharing)
 Welcome ALL 👋
+Please Pray For Palastaniane People To Be Free And Live a Normal Life Like Us Again May Allah Be With Them 
+<div align="center">
+  <img alt="Free Palastine" width="50px" style="padding-right:20px;" src="https://images.jacobinmag.com/wp-content/uploads/2023/05/18160711/GettyImages-1247405869.jpg"/>
+  <
+</div>
+
+<br />
+
+
 
 I am deeply passionate about engineering and driven to continually enhance my programming expertise. My aspiration is to collaborate with a supportive team, working synergistically towards the pinnacle of excellence, where together we can scale new heights and achieve unparalleled success.
 
