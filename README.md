@@ -5,7 +5,7 @@ I am deeply passionate about engineering and driven to continually enhance my pr
  [//]: # (https://gpvc.arturio.dev/Mazen20021) 
 ![Profile views in 2024](https://komarev.com/ghpvc/?username=Mazen20021&style=for-the-badge&color=1155ba)
 
-### 🧰 Programming Skills
+# 🧰 Programming Skills
 
 <div align="center">
   <img align="center" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -22,7 +22,7 @@ I am deeply passionate about engineering and driven to continually enhance my pr
 <br />
 
 
-## Status
+# Status
 <div align="center">
   <a href="https://github.com/Mazen20021">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mazen20021&hide=Makefile,javascript,typescript&theme=algolia&show_icons=true" alt="Mazen20021's GitHub stats">
