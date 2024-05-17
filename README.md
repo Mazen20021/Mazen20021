@@ -20,4 +20,4 @@ I am deeply passionate about engineering and driven to continually enhance my pr
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-[![Mazen20021's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mazen20021&hide=csharp,cpp,dart,flutter,sql,python,bash,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Mazen20021)
+[![Mazen20021's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mazen20021&hide=Makefile,javascript,typescript&theme=algolia&show_icons=true)](https://github.com/Mazen20021)
