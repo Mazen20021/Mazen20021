@@ -1,7 +1,6 @@
 # ⚡ Code Thunder
-## Welcome ALL 👋.
+Welcome ALL 👋.
 I am deeply passionate about engineering and driven to continually enhance my programming expertise. My aspiration is to collaborate with a supportive team, working synergistically towards the pinnacle of excellence, where together we can scale new heights and achieve unparalleled success..
-
 
  [//]: # (https://gpvc.arturio.dev/Mazen20021) 
 ![Profile views in 2024](https://komarev.com/ghpvc/?username=Mazen20021&style=for-the-badge&color=1155ba)
@@ -21,4 +20,9 @@ I am deeply passionate about engineering and driven to continually enhance my pr
 <br />
 
 ## Status
-[![Mazen20021's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mazen20021&hide=Makefile,javascript,typescript&theme=algolia&show_icons=true)](https://github.com/Mazen20021)
+<div align="center">
+  <a href="https://github.com/Mazen20021">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mazen20021&hide=Makefile,javascript,typescript&theme=algolia&show_icons=true" alt="Mazen20021's GitHub stats">
+  </a>
+</div>
+
