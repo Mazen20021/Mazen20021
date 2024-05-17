@@ -30,13 +30,15 @@ I am deeply passionate about engineering and driven to continually enhance my pr
   </a>
 </div>
 
-## Other Profiles
-
-[<img alt="LinkedIn" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/mazen-mansour-b4726123a/)
-[<img alt="Gmail" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=DmwnWstxSHgqDRdRvllzMQQHMLgPpFCQZfBzFGMkjxHMtHztwFnFzhSBclSpPsJZbxbfttWlQtzL)
-[<img alt="LeetCode" width="50px" style="padding-right:20px;" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"/>](https://leetcode.com/u/CodeThunder/)
-
-
-
-
-
+## 🌐 Other Profiles
+<div align="center">
+  <a href="https://www.linkedin.com/in/mazen-mansour-b4726123a/">
+    <img alt="LinkedIn" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img alt="Gmail" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+  </a>
+  <a href="https://leetcode.com/u/CodeThunder/">
+    <img alt="LeetCode" width="50px" style="padding-right:20px;" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"/>
+  </a>
+</div>
