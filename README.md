@@ -53,6 +53,6 @@ I am deeply passionate about engineering and driven to continually enhance my pr
 
 ## 
 <div align="center">
-    <img alt="Thanks" width="500px" style="padding-right:20px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB5ajlnMm0xMms0emF2dzN2bzluNGZ6eHU4djJoZG05YnUxNGwzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4QYfyUv1BOZ70f6Co/giphy.gif"/>
+    <img alt="Thanks" width="250" style="padding-right:20px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB5ajlnMm0xMms0emF2dzN2bzluNGZ6eHU4djJoZG05YnUxNGwzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4QYfyUv1BOZ70f6Co/giphy.gif"/>
   </a>
 </div>
