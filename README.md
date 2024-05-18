@@ -50,3 +50,6 @@ I am deeply passionate about engineering and driven to continually enhance my pr
     <img alt="LeetCode" width="50px" style="padding-right:20px;" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"/>
   </a>
 </div>
+
+[thanks](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB5ajlnMm0xMms0emF2dzN2bzluNGZ6eHU4djJoZG05YnUxNGwzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4QYfyUv1BOZ70f6Co/giphy.gif)
+</div>
