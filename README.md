@@ -48,7 +48,7 @@ I am deeply passionate about engineering and driven to continually enhance my pr
 
 ## 🌐 Other Profiles
 <div align="center">
-  <a href="https://www.linkedin.com/in/mazen-mansour-b4726123a/">
+  <a href="https://www.linkedin.com/in/mazen-m-b4726123a/">
     <img alt="LinkedIn" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   <a href="mailto:your-email@example.com">
