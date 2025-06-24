@@ -36,12 +36,12 @@ I am deeply passionate about engineering and driven to continually enhance my pr
   <a href="https://github.com/Mazen20021">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mazen20021&hide=Makefile,javascript,typescript&theme=algolia&show_icons=true" 
          alt="Mazen20021's GitHub stats" 
-         height="262" width="400" />
+         height="262" />
   </a>
   <a href="https://github.com/Mazen20021">
     <img src="https://github-readme-stats.vercel.app/api?username=Mazen20021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" 
          alt="stats graph" 
-         height="262" width="400" />
+         height="262" />
   </a>
 </div>
 
