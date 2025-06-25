@@ -43,15 +43,7 @@ I am deeply passionate about engineering and driven to continually enhance my pr
          alt="Mazen20021's GitHub stats" 
          height="262" />
   </a>
-  <a href="https://github.com/Mazen20021">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mazen20021&theme=algolia&margin-w=10&margin-h=10" 
-         alt="GitHub Trophies" />
-  </a>
 </div>
-
-
-
-
 
 ## 🌐 Other Profiles
 <div align="center">
