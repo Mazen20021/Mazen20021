@@ -57,9 +57,3 @@ I am deeply passionate about engineering and driven to continually enhance my pr
     <img alt="LeetCode" width="50px" style="padding-right:20px;" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"/>
   </a>
 </div>
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Mazen20021/Mazen20021/output/snake.svg" alt="Snake animation" />
-
-
-
